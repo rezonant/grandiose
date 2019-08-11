@@ -1,4 +1,10 @@
-# Grandiose
+# @rezonant/grandiose
+
+This is my integration branch for the features I am working on within the excellent [`grandiose` library](https://github.com/Streampunk/grandiose).
+For individual efforts, please see `feat/*` branches.
+
+---
+
 [Node.js](http://nodejs.org/) native bindings to NewTek NDI(tm). For more information on NDI(tm), see:
 
 http://NDI.NewTek.com/
